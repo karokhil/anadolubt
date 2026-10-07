@@ -1,0 +1,6 @@
+{
+  "name": "LeadPilot AI",
+  "description": "AI-powered B2B lead generation, website analysis, scoring, and automated outreach CRM platform for agencies and sales teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
